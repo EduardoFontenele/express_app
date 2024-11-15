@@ -1,0 +1,32 @@
+2024-11-15T02:45:14.115Z [error]: Error connecting to database: SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306
+2024-11-15T02:45:32.982Z [error]: Error connecting to database: SequelizeConnectionError: Connection lost: The server closed the connection.
+2024-11-15T02:45:55.837Z [info]: Connected to MySQL successfully
+2024-11-15T02:45:55.840Z [info]: Server started at port 8080
+2024-11-15T03:00:09.806Z [info]: Connected to MySQL successfully
+2024-11-15T03:00:09.810Z [info]: Server started at port 8080
+2024-11-15T03:05:13.180Z [info]: Connected to MySQL successfully
+2024-11-15T03:05:13.184Z [info]: Server started at port 8080
+2024-11-15T03:09:13.857Z [info]: [Application.js] - Connected to MySQL successfully
+2024-11-15T03:09:13.861Z [info]: Server started at port 8080
+2024-11-15T03:09:58.424Z [printf.js] [info] Connected to MySQL successfully
+2024-11-15T03:09:58.428Z [printf.js] [info] Server started at port 8080
+2024-11-15T03:10:17.401Z [printf.js] [info] Connected to MySQL successfully
+2024-11-15T03:10:17.405Z [printf.js] [info] Server started at port 8080
+2024-11-15T03:11:00.239Z [printf.js] [info] Connected to MySQL successfully
+2024-11-15T03:11:00.242Z [printf.js] [info] Server started at port 8080
+2024-11-15T03:11:45.013Z [combine.js] [info] Connected to MySQL successfully
+2024-11-15T03:11:45.016Z [combine.js] [info] Server started at port 8080
+2024-11-15T03:12:02.307Z [info]: Connected to MySQL successfully
+2024-11-15T03:12:02.311Z [info]: Server started at port 8080
+2024-11-15T03:22:55.559Z [info]: Connected to MySQL successfully
+2024-11-15T03:22:55.563Z [info]: Server started at port 8080
+2024-11-15T03:28:17.028Z [info]: Connected to MySQL successfully
+2024-11-15T03:28:17.032Z [info]: Server started at port 8080
+2024-11-15T03:30:10.580Z [info]: Connected to MySQL successfully
+2024-11-15T03:30:10.584Z [info]: Server started at port 8080
+2024-11-15T03:31:34.068Z [info]: Connected to MySQL successfully
+2024-11-15T03:31:34.072Z [info]: Server started at port 8080
+2024-11-15T03:32:20.744Z [info]: Connected to MySQL successfully
+2024-11-15T03:32:20.748Z [info]: Server started at port 8080
+2024-11-15T03:36:40.462Z [info]: Connected to MySQL successfully
+2024-11-15T03:36:40.465Z [info]: Server started at port 8080
